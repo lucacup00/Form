@@ -42,7 +42,7 @@ require_once('connessione.php');
 
     
         </form>
-        <a  href="./visualizza.php">
+        <a  href="./index.php">
             <button class="btn btn-primary"target="_parent">Visualizza</button>
         </a>
     </div> 
