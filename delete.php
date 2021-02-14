@@ -12,7 +12,7 @@ if(!$res)
 
 }
 
-header("Location: visualizza.php");
+header("Location: delete.php");
 
 
 
